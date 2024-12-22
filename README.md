@@ -1,2 +1,2 @@
 # Terraform_Series
-Learing Terraform 
+Learing About Terraform
